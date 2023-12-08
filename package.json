@@ -1,0 +1,16 @@
+{
+	"name": "xlsx-reader",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "ts-node src/index.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"node-xlsx": "^0.23.0",
+		"ts-node": "^10.9.2"
+	}
+}
